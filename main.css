@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+.content{
+    display: flex; 
+    width: 100vw;
+    height: 100vh;
+    align-items: center;
+    flex-direction: column;
+    background-color: #F1EEEE;
+}
+.perfil{
+    width: 100%;
+    display: flex;
+    padding: 0.8em;
+    align-items: center;
+    flex-direction: column;
+    border-bottom: solid 1px #CFC3C3;
+}
+.perfil figure{
+    width: 12em;
+    height: 12em;
+    border-radius: 50%;
+    margin-bottom: 0.5em;
+    background-image: url("https://i.imgur.com/aNnzSRb.jpg");
+}
+.perfil figcaption{
+    font-size: 2em;
+    margin-bottom: 0.1em;
+    font-style: normal;
+    font-weight: bold;
+    font-family: 'Signika', sans-serif;
+}
+.perfil time{
+    font-size: 1em;
+    font-style: normal;
+    font-weight: lighter;
+    margin-bottom: 0.5em;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.button{
+    width: 14em;
+    padding: 1em;
+    height: 3.5em;
+    margin-top: 8em;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 1em;
+    white-space: nowrap;
+    background-color: #7FBCDF;
+    box-shadow: 0px 7px 14px 0px rgba(66, 62, 64, 0.11), 
+    -5px 9px 13px -7px rgba(76, 73, 74, 0.42);
+    color: #363333;
+}
