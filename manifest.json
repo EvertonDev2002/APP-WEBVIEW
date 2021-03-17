@@ -1,0 +1,17 @@
+{
+    "dir": "ltr",
+    "lang": "Portuguese",
+    "name": "Eu mesmo",
+    "short_name": "Eu mesmo",
+    "scope": "/WebVIew_App/",
+    "display": "standalone",
+    "start_url": "https://edward04007.github.io/WebVIew_App/",
+    "background_color": "#F1EEEE",
+    "theme_color": "transparent",
+    "description": "Minhas redes e uma breve descrição de mim.",
+    "orientation": "any",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [],
+    "url": "https://edward04007.github.io/WebVIew_App/"
+}
