@@ -1,0 +1,104 @@
+@charset "utf-8";
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.content{
+    width: 100vw;
+    display: flex; 
+    height: 100vh;
+    align-items: center;
+    flex-direction: column;
+    background-color: #F1EEEE;
+}
+.perfil{
+    width: 100%;
+    height: 12%;
+    display: flex;
+    padding: 0.8em;
+    align-items: center;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    border-bottom: solid 1px #CFC3C3;
+}
+.perfil > figure{
+    width: 4em;
+    height: 4em;
+    border-radius: 50%;
+    margin-bottom: 0.5em;
+    background-size: 4em;
+    background-position: center;
+    background-repeat: no-repeat;
+   background-image: url("https://i.imgur.com/aNnzSRb.jpg");
+}
+.perfil > figure:hover{
+    transition: 2s all;
+    box-shadow: 0px 7px 14px 0px rgba(66, 62, 64, 0.11), -5px 9px 13px -7px rgba(76, 73, 74, 0.42);
+}
+.perfil > figcaption{
+    font-size: 1.7em;
+    color: #292828;
+    font-weight: bold;
+    font-style: normal;
+    margin-bottom: 0.1em;
+    font-family: 'Signika', sans-serif;
+}
+.text{
+    width: 100%;
+    height: 100%;
+    padding: 1em;
+    overflow: auto;
+}
+.text > h1{
+    font-size: 1.6em;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.text > h2{
+    font-size: 1.6em;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.text > p{
+    margin: 1em;
+    font-size: 1em;
+    text-align: justify;
+    font-weight: lighter;
+    font-family: 'Signika', sans-serif;
+}
+.menu{
+    bottom: 0;
+    height: 8%;
+    width: 100%;
+    position: fixed;
+    background-color: #F1EEEE;
+    border-top: solid 1px #CFC3C3;
+}
+.menu > ul{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.menu > ul > li > a{
+    font-size: 1.2em;
+    color: #818377;
+}
+.menu > ul > li:hover{
+ 
+  border-bottom: solid 0.1em rgb(114, 106, 106);
+}
+.MyAnimeList{
+    width: 1.2em;
+    height: 1.2em;
+    border-radius: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    content: url("https://i.imgur.com/ZNtfI3g.png");
+}

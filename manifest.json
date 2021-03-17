@@ -12,6 +12,49 @@
     "orientation": "any",
     "related_applications": [],
     "prefer_related_applications": false,
-    "icons": [],
+    "icons": [
+
+        {
+            "src": "https://i.imgur.com/2hfs1vI.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "https://i.imgur.com/2hfs1vI.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+
+            "src": "https://i.imgur.com/2hfs1vI.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "https://i.imgur.com/2hfs1vI.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "https://i.imgur.com/2hfs1vI.png",
+            "type": "image/png",
+            "sizes": "64x64"
+        },
+        {
+            "src": "https://i.imgur.com/2hfs1vI.png",
+            "type": "image/png",
+            "sizes": "48x48"
+        },
+        {
+            "src": "https://i.imgur.com/2hfs1vI.png",
+            "type": "image/png",
+            "sizes": "32x32"
+        },
+        {
+            "src": "https://i.imgur.com/2hfs1vI.png",
+            "type": "image/png",
+            "sizes": "16x16"
+        }
+    ],
     "url": "https://edward04007.github.io/WebVIew_App/"
 }
