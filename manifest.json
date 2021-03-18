@@ -3,9 +3,9 @@
     "lang": "Portuguese",
     "name": "Eu mesmo",
     "short_name": "Eu mesmo",
-    "scope": "/WebVIew_App/",
+    "scope": "https://eumesmo.vercel.app/",
     "display": "standalone",
-    "start_url": "https://edward04007.github.io/WebVIew_App/",
+    "start_url": "https://eumesmo.vercel.app/",
     "background_color": "#F1EEEE",
     "theme_color": "transparent",
     "description": "Minhas redes e uma breve descrição de mim.",
@@ -56,5 +56,5 @@
             "sizes": "16x16"
         }
     ],
-    "url": "https://edward04007.github.io/WebVIew_App/"
+    "url": "https://eumesmo.vercel.app/"
 }

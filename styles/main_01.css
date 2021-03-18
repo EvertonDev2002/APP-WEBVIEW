@@ -53,23 +53,27 @@
     overflow: auto;
 }
 .text > h1{
+    margin: 0.5em;
     font-size: 1.6em;
     font-weight: bold;
     text-align: center;
     font-family: 'Roboto Condensed', sans-serif;
 }
 .text > h2{
+    margin: 1em;
     font-size: 1.6em;
     font-weight: bold;
     text-align: center;
     font-family: 'Roboto Condensed', sans-serif;
 }
 .text > p{
-    margin: 1em;
     font-size: 1em;
     text-align: justify;
     font-weight: lighter;
     font-family: 'Signika', sans-serif;
+}
+.margin{
+    margin-bottom: 4em;
 }
 .menu{
     bottom: 0;
