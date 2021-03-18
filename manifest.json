@@ -3,9 +3,9 @@
     "lang": "Portuguese",
     "name": "Eu mesmo",
     "short_name": "Eu mesmo",
-    "scope": "https://eumesmo.vercel.app/",
+    "scope": "https://eumesmo.vercel.app",
     "display": "standalone",
-    "start_url": "https://eumesmo.vercel.app/",
+    "start_url": "https://eumesmo.vercel.app",
     "background_color": "#F1EEEE",
     "theme_color": "transparent",
     "description": "Minhas redes e uma breve descrição de mim.",
@@ -13,48 +13,47 @@
     "related_applications": [],
     "prefer_related_applications": false,
     "icons": [
-
         {
-            "src": "https://i.imgur.com/2hfs1vI.png",
+            "src": "https://i.imgur.com/1svI4UA.png",
             "type": "image/png",
             "sizes": "512x512"
         },
         {
-            "src": "https://i.imgur.com/2hfs1vI.png",
+            "src": "https://i.imgur.com/xAgyjV2.png",
             "type": "image/png",
             "sizes": "144x144"
         },
         {
-
-            "src": "https://i.imgur.com/2hfs1vI.png",
+            "src": "https://i.imgur.com/HFnW77O.png",
             "type": "image/png",
             "sizes": "128x128"
         },
         {
-            "src": "https://i.imgur.com/2hfs1vI.png",
+            "src": "https://i.imgur.com/H1Y9TcN.png",
             "type": "image/png",
             "sizes": "96x96"
         },
         {
-            "src": "https://i.imgur.com/2hfs1vI.png",
+            "src": "https://i.imgur.com/5PgNKs1.png",
             "type": "image/png",
             "sizes": "64x64"
         },
         {
-            "src": "https://i.imgur.com/2hfs1vI.png",
+            "src": "https://i.imgur.com/ApVkGrN.png",
             "type": "image/png",
             "sizes": "48x48"
         },
         {
-            "src": "https://i.imgur.com/2hfs1vI.png",
+            "src": "https://i.imgur.com/jGGbYBW.png",
             "type": "image/png",
             "sizes": "32x32"
         },
         {
-            "src": "https://i.imgur.com/2hfs1vI.png",
+            "src": "https://i.imgur.com/hN1AWXP.png",
             "type": "image/png",
             "sizes": "16x16"
         }
     ],
-    "url": "https://eumesmo.vercel.app/"
+    "url": "https://eumesmo.vercel.app",
+    "manifestUrl": "https://eumesmo.vercel.app/manifest.json"
 }
